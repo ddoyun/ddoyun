@@ -19,7 +19,6 @@
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"> <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=sass&logoColor=fff"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff"><br>
 
-<br>
 
 #### Collaboration & Tools
 
