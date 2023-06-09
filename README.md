@@ -21,5 +21,3 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"> <img src="https://img.shields.io/badge/Visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
 
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddoyun&show_icons=true&theme=omni)
