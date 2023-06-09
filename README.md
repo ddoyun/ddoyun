@@ -1,16 +1,15 @@
 #### 🤞 Nice way to meet me
+<a href="soyoon6875@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soyoon6875@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
 
-<!--
-**ddoyun/ddoyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+👋 안녕하세요! 프론트엔드를 공부하고 있습니다. 🚀 </br>
+사용자 경험에 관심이 많고, React와 디자인을 좋아합니다. 💖
 
-Here are some ideas to get you started:
+</br>
+런데이와 등산을 즐겨합니다. 🏃‍♀️🌄
+효율적인 프로세스에 관심이 많습니다. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💪 Skills
+Platforms & Languages
+
+Tools
