@@ -1,4 +1,4 @@
-### 🤞 Nice way to meet me
+/* ### 🤞 Nice way to meet me
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=soyoon6875@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soyoon6875@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff"/></a>
 
 
@@ -6,7 +6,7 @@
 사용자 경험에 관심이 많고, React와 디자인을 좋아합니다. 💖<br>
 <br>
 
-### 💪 Skills
+### 💪 Skills */
 
 #### Languages
 
